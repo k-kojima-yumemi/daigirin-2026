@@ -20,10 +20,14 @@ module.exports = {
     'solana-anchor.md',
     'emoto.md',
     'kishimoto01.md',
+<<<<<<< HEAD
     'kishimoto02.md',
     'yuuuka01.md',
     'yuuuka02.md',
     'yuki.md',
+=======
+    'akatsuki174.md',
+>>>>>>> bcd4e41 (vivliostyleに自分のファイル名を追加)
 
     // 著者紹介
     'authors.md',
