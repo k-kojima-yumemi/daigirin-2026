@@ -22,7 +22,9 @@ module.exports = {
     'kishimoto01.md',
     'kishimoto02.md',
     'kitaji0306-secops.md',
-    'yuuuka.md',
+    'yuuuka01.md',
+    'yuuuka02.md',
+    'yuki.md',
 
     // 著者紹介
     'authors.md',
